@@ -1,6 +1,2 @@
-# Gr3Repositorio
-Integrantes:
-*Alcaciega Jacqueline
-*
-*
-*
+# Gr3RepositorIO
+
